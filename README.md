@@ -1,6 +1,11 @@
 # mynotes
 
-A new Flutter project.
+Flutter project help you to save your notes and remember it
+
+using
+-flutter
+-sqflite
+-Getx
 
 ## Getting Started
 
